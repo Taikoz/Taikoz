@@ -13,5 +13,5 @@ I am a full-stack developer in my final year of Master's degree at ETNA, and I a
 
 ## 📫 Contact Me
 
-- Email: adrien.quennehen270100@gmail.com
+- Email: adrien.quenne@gmail.com
 
